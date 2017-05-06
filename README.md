@@ -1,0 +1,2 @@
+# golangtest
+go exercise
